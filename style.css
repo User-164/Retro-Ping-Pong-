@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#pongCanvas {
+    background-color: #1e1e1e;
+    border: 2px solid #ffffff;
+    display: block;
+}
